@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm [Your Name], a passionate [Your Profession] from [Your Location].
+I'm Monish Nule, a passionate Developer Engineer from Mumbai.
 
 🌱 I’m currently learning Front-end Development.
 💼 I’m looking to collaborate on HTML, CSS, JS.
