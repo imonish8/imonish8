@@ -2,37 +2,37 @@
 
 I'm [Your Name], a passionate [Your Profession] from [Your Location].
 
-🌱 I’m currently learning [Current Learning Focus].
-💼 I’m looking to collaborate on [Projects or Interests].
-📫 How to reach me: [Your Email or other Contact Info].
+🌱 I’m currently learning Front-end Development.
+💼 I’m looking to collaborate on HTML, CSS, JS.
+📫 How to reach me: imonishnule8@gmail.com.
 
 ## Skills
 
-- **Languages:** [List of Programming Languages]
-- **Technologies:** [List of Technologies and Tools]
-- **Frameworks:** [List of Frameworks]
-- **Databases:** [List of Databases]
+- **Languages:** Java, Python.
+- **Technologies:** HTML, CSS, JS, REACT, NODEJS, MACOS, LINUX, WONDOWS
+- **Frameworks:** DJANGO
+- **Databases:** MONGODB
 
 ## Projects
 
-- [Project 1: Name](Link to the project)
-  Description of the project.
+- V-VOCAL (https://imonish8.github.io/V-vocal/)
+  This V-vocal E-commerce is unique in its own Way.
 
-- [Project 2: Name](Link to the project)
-  Description of the project.
+-My Personal Website (https://imonish8.github.io/monishPersonal/ )
+  This website is solely designed by me with ❤️ 
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=imonish8&show_icons=true&theme=radical)
 
 ## Visitors
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=imonish8.imonish8)
 
 ## Connect with Me
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/yourusername/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/yourusername)](https://twitter.com/yourusername)
-[![Website](https://img.shields.io/badge/-Website-brightgreen?style=flat-square&link=https://yourwebsite.com)](https://yourwebsite.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/monishnule/)](https://www.linkedin.com/in/monishnule/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/yourusername)](https://twitter.com/imonish8)
+[![Website](https://img.shields.io/badge/-Website-brightgreen?style=flat-square&link=https://yourwebsite.com)](https://monishnule.dev)
 
 Feel free to explore my repositories and don't hesitate to reach out! 😊
