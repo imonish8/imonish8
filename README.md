@@ -4,10 +4,6 @@ I'm Monish Nule, a passionate Developer Engineer from India.
 
 ![Untitled design](https://github.com/imonish8/imonish8/assets/115737071/b713f23d-1749-4da5-a7b1-77114187f9e0)
 
-🌱 I’m currently learning Front-end Development.
-💼 I’m looking to collaborate on HTML, CSS, JS.
-📫 How to reach me: imonishnule8@gmail.com.
-
 ## Skills
 
 - **Languages:** Java, Python.
