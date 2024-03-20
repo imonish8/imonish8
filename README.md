@@ -1,6 +1,6 @@
-# Hi there! 👋
+# Hi 👋 !
 
-I'm Monish Nule, a passionate Developer Engineer from India.
+### I'm Monish Nule, a passionate Developer Engineer from Earth.
 
 ![Untitled design](https://github.com/imonish8/imonish8/assets/115737071/b713f23d-1749-4da5-a7b1-77114187f9e0)
 
