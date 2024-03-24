@@ -1,10 +1,14 @@
-# Hi 👋 !
+# Hi 👋 ! 
+<a href="https://open.spotify.com/playlist/6QeG2qOLyrqMGT0IJ7g48h?si=0654c9f946bf444e" target="_blank" > <img src="https://github.com/imonish8/imonish8/assets/115737071/2a0db3bc-a82e-48e0-98d2-6bae552bce6e" width="50" height="50">  </a>
+
 
 ### I'm Monish Nule, a passionate Developer Engineer from Earth.
 
 ![Untitled design](https://github.com/imonish8/imonish8/assets/115737071/b713f23d-1749-4da5-a7b1-77114187f9e0)
 
-[Spotify](https://open.spotify.com/playlist/6QeG2qOLyrqMGT0IJ7g48h?si=0654c9f946bf444e)
+
+
+
 
 ## Skills
 
@@ -24,3 +28,6 @@
 
 ---
 
+
+
+<img src="https://github.com/imonish8/imonish8/assets/115737071/2a0db3bc-a82e-48e0-98d2-6bae552bce6e" width="100" height="100">
