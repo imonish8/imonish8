@@ -8,7 +8,7 @@
 </p>
 
 
----
+
 <p align="center">
 <a align="center" href="https://www.linkedin.com/in/monishnule/">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>  <a href="https://www.instagram.com/er_mn8_500/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
 
