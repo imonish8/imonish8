@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://aiurl.vercel.app">
-    <img  width="605" src="https://github.com/imonish8/imonish8/assets/115737071/9560ce8a-ff43-4caf-96cd-95848867ed9c" />
+    <img  width="300" src="https://github.com/imonish8/imonish8/assets/115737071/9560ce8a-ff43-4caf-96cd-95848867ed9c" />
   </a>
 </p>
 
