@@ -8,11 +8,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://aiurl.vercel.app">
-    <img  width="300" src="https://github.com/imonish8/imonish8/assets/115737071/9560ce8a-ff43-4caf-96cd-95848867ed9c" />
-  </a>
-</p>
 
 <p align="center">
 <a align="center" href="https://www.linkedin.com/in/monishnule/">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>  <a href="https://www.instagram.com/er_mn8_500/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
