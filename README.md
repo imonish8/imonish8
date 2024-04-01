@@ -14,15 +14,11 @@
 
 </p>
 <p align="center"> <a align="center" href="https://monish8.vercel.app"> 
- <img src=https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.monish&logoColor=white /> </a>
+ <img src=https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.monish&logoColor=white /> 
+ <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />  
+</a>
 </p>
 
-
-
-
-<p align="center"> <a align="center" href="https://machinelearning.apple.com"> 
-<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />  
-</p>
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-imonish8)
