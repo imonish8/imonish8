@@ -1,5 +1,5 @@
-# <p align="center"> Monish, Lemme Wrap up this Quickly ! </p>
-##  <p align="center"> Developer, Writer, Sketcher. </p>
+# <p align="center"> Hi, I'm @imonish8 ! </p>
+
 
 
 <p align="center">
