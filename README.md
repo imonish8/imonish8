@@ -9,7 +9,7 @@
 </p>
 
 
-<p align="center"> <a align="center" href="https://monishnule.dev"> 
+<p align="center"> <a align="center" target="_blank" href="https://monishnule.dev"> 
 <a href='https://monishnule.dev' target="_blank"><img alt='Monish' src='https://img.shields.io/badge/Website-100000?style=flat&logo=Monish&logoColor=BA0001&labelColor=299FFF&color=7CFF01'/></a>
 </p>
 
